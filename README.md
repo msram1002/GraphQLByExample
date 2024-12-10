@@ -1,1 +1,1 @@
-# GraphQL Hello World
+# GraphQL Hello World!
